@@ -43,6 +43,8 @@ more sources of on-chain data
 
 strategy simulation
 
+https://github.com/misterwizard664ghh/MarketMind-AI/releases/tag/MarketMind-AI
+
 plugins
 
 UI for workflow
